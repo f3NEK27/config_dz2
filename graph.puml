@@ -1,0 +1,6 @@
+@startuml
+digraph G {
+    "first commit" [label="first commit"];
+    "first commit" -> "first commit" [color=black];
+}
+@enduml
