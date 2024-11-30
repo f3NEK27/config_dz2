@@ -1,6 +1,9 @@
 @startuml
 digraph G {
-    "first commit" [label="first commit"];
-    "first commit" -> "first commit" [color=black];
+    "version_2.0
+first commit" [label="version_2.0
+first commit"];
+    "first commit" -> "version_2.0
+first commit" [color=black];
 }
 @enduml
